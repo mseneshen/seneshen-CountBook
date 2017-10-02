@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/micah/Desktop/seneshen-CountBook/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/micah/.android/build-cache/e8050fead999e49124c583c3270d1f748cce2668/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/home/micah/Desktop/seneshen-CountBook/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/home/micah/.android/build-cache/78d835e385970b108ac81c2d786cf2afb2d66876/output/res/drawable-v21/avd_show_password.xml"
+    },
+    {
+        "merged": "/home/micah/Desktop/seneshen-CountBook/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/micah/.android/build-cache/e8050fead999e49124c583c3270d1f748cce2668/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/micah/Desktop/seneshen-CountBook/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/micah/.android/build-cache/e8050fead999e49124c583c3270d1f748cce2668/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/micah/Desktop/seneshen-CountBook/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/micah/.android/build-cache/e8050fead999e49124c583c3270d1f748cce2668/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/home/micah/Desktop/seneshen-CountBook/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/home/micah/.android/build-cache/78d835e385970b108ac81c2d786cf2afb2d66876/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/home/micah/Desktop/seneshen-CountBook/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/home/micah/.android/build-cache/78d835e385970b108ac81c2d786cf2afb2d66876/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/home/micah/Desktop/seneshen-CountBook/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/home/micah/.android/build-cache/78d835e385970b108ac81c2d786cf2afb2d66876/output/res/drawable-v21/design_password_eye.xml"
+    }
+]

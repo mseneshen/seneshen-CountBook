@@ -1,0 +1,4 @@
+#Sat Sep 30 12:13:06 MDT 2017
+base.0=/home/micah/Desktop/seneshen-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9
+renamed.0=classes.dex
+file.0=/home/micah/Desktop/seneshen-CountBook/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_9/classes.dex
