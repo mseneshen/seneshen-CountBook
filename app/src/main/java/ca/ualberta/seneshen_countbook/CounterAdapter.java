@@ -36,7 +36,7 @@ public class CounterAdapter extends RecyclerView.Adapter<CounterViewHolder> {
         holder.countText.setText(Integer.toString(counter.getCountCurrent()));
 
         android.text.format.DateFormat df = new android.text.format.DateFormat();
-        String date_string = df.format("MMM d, yyyy 'at' hh:mm:ss a", counter.getLastUpdated()).toString();
+        String date_string = df.format("yyyy-MM-dd 'at' hh:mm:ss a", counter.getLastUpdated()).toString();
 
         holder.dateText.setText("Last updated: " + date_string);
 
