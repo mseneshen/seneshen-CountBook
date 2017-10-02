@@ -26,6 +26,7 @@ public class CounterAdapter extends RecyclerView.Adapter<CounterViewHolder> {
         View counterView = LayoutInflater.from(parent.getContext()).inflate(R.layout.counter_layout, parent, false);
         CounterViewHolder viewHolder = new CounterViewHolder(counterView);
         return viewHolder;
+
     }
 
     @Override

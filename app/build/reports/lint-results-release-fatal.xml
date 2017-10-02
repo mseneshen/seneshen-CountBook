@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<issues format="4" by="lint 2.3.3">
+
+    <issue
+        id="DuplicateIds"
+        severity="Fatal"
+        message="Duplicate id `@+id/textView3`, already defined earlier in this layout"
+        category="Correctness"
+        priority="7"
+        summary="Duplicate ids within a single layout"
+        explanation="Within a layout, id&apos;s should be unique since otherwise `findViewById()` can return an unexpected view."
+        errorLine1="                android:id=&quot;@+id/textView3&quot;"
+        errorLine2="                ~~~~~~~~~~~~~~~~~~~~~~~~~~~">
+        <location
+            file="/home/micah/Desktop/seneshen-CountBook/app/src/main/res/layout/counter_view_layout.xml"
+            line="102"
+            column="17"/>
+        <location
+            file="/home/micah/Desktop/seneshen-CountBook/app/src/main/res/layout/counter_view_layout.xml"
+            line="60"
+            column="17"/>
+    </issue>
+
+</issues>
